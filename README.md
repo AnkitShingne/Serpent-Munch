@@ -12,4 +12,4 @@ Inside the folder execute following: make; ./snake
 WASD keys - for movement
 
 # The Game 
-![Snake Game Screenshot]()
+![Snake Game Screenshot](https://github.com/AnkitShingne/Serpent-Munch/blob/main/serpent.png)
